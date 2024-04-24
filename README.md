@@ -30,8 +30,6 @@ https://gameanalytics.com/privacy
 <br>
 https://www.adjust.com/terms/privacy-policy/
 <br>
-https://www.voodoo.io/
-<br>
 
 Log Data
 
@@ -120,7 +118,3 @@ email: privacy@adjust.com <br>
 privacy policy: https://www.adjust.com/terms/privacy-policy/
 
 <br>
-Voodoo:
-
-email: dpo@voodoo.io<br>
-privacy policy: https://www.voodoo.io
