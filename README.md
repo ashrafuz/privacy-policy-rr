@@ -23,7 +23,8 @@ The app does use third-party services that may collect information used to ident
 - https://facebook.com/about/privacy  
 - https://gameanalytics.com/privacy  
 - https://www.adjust.com/terms/privacy-policy/  
-- https://www.voodoo.io/  
+- https://www.voodoo.io/
+- https://lionstudios.cc/lion-studios-llc-privacy-notice/
 
 ---
 
@@ -106,7 +107,8 @@ Wiseman Studio and its third-party partners collect data:
 - GameAnalytics  
 - Facebook Analytics  
 - Adjust  
-- Voodoo  
+- Voodoo
+- Lion Studios, LLC
 
 ### Data deletion requests:
 
@@ -131,3 +133,7 @@ To delete user data collected by Wiseman Studio, please contact:
 #### Voodoo  
 📧 dpo@voodoo.io  
 🔗 https://www.voodoo.io
+
+### Lion Studios, LLC
+📧 dataprotection@lionstudios.cc
+🔗 https://lionstudios.cc/lion-studios-llc-privacy-notice/
